@@ -1,1 +1,1 @@
-# Telco Customer Churn Competition 
+# Sample Pipeline for Data Science Competition
